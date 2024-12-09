@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "RollMart",
+        "HERO_HEADING_TEXT": "Your One-Stop Shop for All Things TP",
+        "HERO_SUBHEADING_TEXT": "Browse, compare, and buy toilet paper from various brands and suppliers, all in one convenient marketplace.",
+        "FOOTER_TEXT": "\u00a9 2023 RollMart. Wiping away your worries, one roll at a time."
+    }
+}
