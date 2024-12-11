@@ -49,5 +49,13 @@
         "metadata": {
             "tool_call_id": "call_VP6Vl7Z3UVAjiuZvsOQcaCmV"
         }
+    },
+    {
+        "id": "4ee6878c-b652-400c-9734-72dd7397f05f",
+        "timestamp": "2024-12-11T15:44:34.008956Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "I have added an image of a dinosaur to the Hero component. What would you like to do next?",
+        "metadata": {}
     }
 ]
